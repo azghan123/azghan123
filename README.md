@@ -55,7 +55,7 @@
 
 * 💻 Full-Stack Developer: Building scalable web & mobile solutions from frontend to backend.
 * 🛒 E-Commerce Platforms: Expert in developing complete eCommerce websites & platforms (custom stores, marketplaces, payment integrations).
-* 🚀 Startup Enablement: Helping startups turn ideas into production-ready products — from MVP to launch.
+* 🚀 Startup Enablement: Helping startups turn ideas into production-ready products,  from MVP to launch.
 * ⚙️ End-to-End Solutions: Architecture, development, deployment, and post-launch support.
 
 ---
