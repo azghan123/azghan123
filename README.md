@@ -18,8 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/Hammashami98"><img src="https://img.shields.io/badge/Twitter-@hammast1-007edd?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:22-CS-37@students.uettaxila.edu.pk"><img src="https://img.shields.io/badge/Email-Contact-007edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:azghan.tariq@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-007edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,7 +45,7 @@
   </tr>
 </table>
 
-> **Fun Fact:** I've been breaking (and fixing) things since I was 10!
+> **Fun Fact:** I've been breaking (and fixing) things since I was 15!
 
 ---
 
@@ -54,10 +53,10 @@
 
 ## 💡 What I Do
 
-* 🔧 **Cross-Platform Mobile Apps:** Crafting high-performance Flutter apps.
-* 🧠 **State Management:** Currently deep-diving into **Riverpod** and **Bloc**.
-* 🧪 **Security:** Researching Mobile Security & API vulnerability.
-* 🐧 **Environment:** OS agnostic, but I have a soft spot for **Arch Linux**.
+* 💻 Full-Stack Developer: Building scalable web & mobile solutions from frontend to backend.
+* 🛒 E-Commerce Platforms: Expert in developing complete eCommerce websites & platforms (custom stores, marketplaces, payment integrations).
+* 🚀 Startup Enablement: Helping startups turn ideas into production-ready products — from MVP to launch.
+* ⚙️ End-to-End Solutions: Architecture, development, deployment, and post-launch support.
 
 ---
 
@@ -74,22 +73,20 @@
 
 <a name="milestones"></a>
 
-## 🎯 Progress Tracker
-
-- [x] Master FullStack Web Development
-- [x] Master Linux ecosystem
-- [x] Report serious Vulnerabilities to Companies
-- [ ] **Next:** 40+ Freelance Projects
-- [ ] **Next:** Advanced C++ Systems Programming
-
----
+🎯 Progress Tracker;
+ -> Master Full-Stack Web Development
+ -> Build & Deploy E-Commerce Platforms & Websites
+ -> Deliver Production-Ready Solutions for Clients & Startups
+ -> Master Linux Ecosystem & Server Environments
+ -> Next: Complete 40+ Professional Freelance Projects
+ -> Next: Advanced System Design & Scalable Architectures
 
 <a name="wanna-chat"></a>
 
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="mailto:22-CS-37@students.uettaxila.edu.pk">
+  <a href="mailto:azghan.tariq@gmail.com">
     <img src="https://img.shields.io/badge/Hire_Me-007edd?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
