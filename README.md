@@ -36,7 +36,7 @@
         <li>🎂 <b>Age:</b> 23 Years</li>
         <li>🗺️ <b>Origin:</b> Pakistan 🇵🇰</li>
         <li>🗣️ <b>Languages:</b> Urdu, English</li>
-        <li>💻 <b>Main Stack:</b> Java, Python, C++</li>
+        <li>💻 <b>Main Stack:</b> Full Stack </li>
       </ul>
     </td>
     <td width="50%" align="center">
